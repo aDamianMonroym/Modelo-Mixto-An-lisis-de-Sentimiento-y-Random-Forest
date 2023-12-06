@@ -6,24 +6,39 @@ Se recomienda utilizar un entorno virtual para descargar las dependencias necesa
 Bibliotecas necesarias:
 
 • pysentimiento==0.2.0
+
 • torch
+
 • scikit-learn
+
 • pandas
+
 • matplotlib
+
 • seaborn
 
 Dependencias necesarias:
 
 • import pandas as pd
+
 • import numpy as np
+
 • import matplotlib.pyplot as plt
+
 • import seaborn as sns
+
 • from pysentimiento import SentimentAnalyzer
+
 • from sklearn import model_selection
+
 • from sklearn.metrics import classification_report
+
 • from sklearn.metrics import confusion_matrix
+
 • from sklearn.metrics import accuracy_score
+
 • from sklearn.ensemble import RandomForestClassifier
+
 • from sklearn.preprocessing import StandardScaler
 • from sklearn.preprocessing import label_binarize
 • from sklearn.metrics import roc_curve, auc

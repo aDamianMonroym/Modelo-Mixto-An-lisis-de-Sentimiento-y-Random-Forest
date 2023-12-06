@@ -1,0 +1,6 @@
+Debido a que el tamaño del archivo es muy grande.
+Adjunto la liga de Kaggle que te lleva directamente al conjunto de datos.
+
+liga: https://www.kaggle.com/datasets/tariqsays/sentiment-dataset-with-1-million-tweets
+
+Agradecimientos a Muhammad Tariq
